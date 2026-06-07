@@ -4,6 +4,6 @@ title: Welcome to my blog!
 
 
 ### Header AAAAAAAAAEA
-![](skills-github-pages/IMG_6294.webp)
-
+![](IMG_6294.webp)
+<img style="max-width: 10px; height: auto; " src="IMG_6294.webp" />
 **BOLD**
